@@ -1,5 +1,4 @@
 # Mail-Merge-Project
-## This project is based on the 24th Days project from 100 days of coding course in udemy. The steps used in creating the mail merge is as follows.
 ### Step 1: initializing the txt files path.
 ### Step 2: opening file starting_letter.txt in read mode and reading the file.
 ### Step 3: opening file invited_names.txt in read mode and reading the file.
